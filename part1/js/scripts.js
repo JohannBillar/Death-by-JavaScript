@@ -189,8 +189,3 @@
 //console.log(c[index][0]['shape']);
 ////console.log(c[1][0]['shape']);
 //}
-
-
-
-
-
